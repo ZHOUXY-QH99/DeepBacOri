@@ -15,7 +15,7 @@ DeepBacOri is a comprehensive tool designed to predict DNA replication origin si
 ### Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/DeepBacOri.git
+git clone https://github.com/ZHOUXY-QH99/DeepBacOri.git
 cd DeepBacOri
 pip install torch biopython numpy scipy matplotlib
 ```
